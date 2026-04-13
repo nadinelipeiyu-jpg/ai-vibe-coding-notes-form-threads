@@ -7,6 +7,9 @@
 從 Threads 社群收集整理的 Claude Code、Vibe Coding、AI workflow 實用技巧。
 每條都有來源帳號連結，學會並實際使用後打勾 ✅
 
+感謝所有在 Threads 上無私分享 Tips 的創作者 🙏
+收集區間：2026/4/5 – 2026/4/13
+
 > **持續更新中** — 歡迎開 Issue 推薦好文或補充內容
 
 ## 目錄
